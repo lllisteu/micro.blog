@@ -1,0 +1,108 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "lllist.eu",
+	"icon": "https://micro.blog/lllist/avatar.jpg",
+	"home_page_url": "https://microblog.lllist.eu/",
+	"feed_url": "https://microblog.lllist.eu/feed.json",
+	"items": [
+		
+			{
+				"id": "http://lllist.micro.blog/2023/03/19/listening-to-bright.html",
+				
+				"content_html": "<p>Listening to &ldquo;Bright Horses&rdquo; by Nick Cave on Concertzender / De Gehoorde Stilte</p>\n",
+				"content_text": "Listening to \"Bright Horses\" by Nick Cave on Concertzender / De Gehoorde Stilte\n",
+				"date_published": "2023-03-19T16:26:46+01:00",
+				"url": "https://microblog.lllist.eu/2023/03/19/listening-to-bright.html"
+			},
+			{
+				"id": "http://lllist.micro.blog/2023/03/19/listening-to-soy.html",
+				
+				"content_html": "<p>Listening to &ldquo;Soy Marco&rdquo; (from Hable con ella) by Alberto Iglesias on Klara Continuo</p>\n",
+				"content_text": "Listening to \"Soy Marco\" (from Hable con ella) by Alberto Iglesias on Klara Continuo\r\n",
+				"date_published": "2023-03-19T11:34:27+01:00",
+				"url": "https://microblog.lllist.eu/2023/03/19/listening-to-soy.html"
+			},
+			{
+				"id": "http://lllist.micro.blog/2023/03/18/alan-jacobs-in.html",
+				
+				"content_html": "<p>Alan Jacobs in <a href=\"https://micro.blog/books/9781788162999\">Breaking Bread with the Dead</a>, p65:</p>\n<blockquote>\n<p>Plutarch thought that one could live a wise and fulfilling life anywhere, and that was possible in part because of books – books that connect us to the Great.</p>\n</blockquote>\n",
+				"content_text": "Alan Jacobs in [Breaking Bread with the Dead](https://micro.blog/books/9781788162999), p65:\n\n> Plutarch thought that one could live a wise and fulfilling life anywhere, and that was possible in part because of books – books that connect us to the Great.\n",
+				"date_published": "2023-03-18T18:28:57+01:00",
+				"url": "https://microblog.lllist.eu/2023/03/18/alan-jacobs-in.html"
+			},
+			{
+				"id": "http://lllist.micro.blog/2023/03/17/cube-panel-for.html",
+				
+				"content_html": "<p>Flexy cube panel for two 90x30 modules</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Flexy cube panel for two 90x30 modules\n\n<img src=\"uploads/2023/435f0970ef.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-03-17T15:36:41+01:00",
+				"url": "https://microblog.lllist.eu/2023/03/17/cube-panel-for.html",
+				"tags": ["flexy cube"]
+			},
+			{
+				"id": "http://lllist.micro.blog/2023/03/17/listening-to-prologue.html",
+				
+				"content_html": "<p>Listening to &ldquo;Prologue&rdquo; by Driftwood &amp; Cordette Quartet on Klara Continuo</p>\n",
+				"content_text": "Listening to \"Prologue\" by Driftwood & Cordette Quartet on Klara Continuo\n",
+				"date_published": "2023-03-17T11:55:39+01:00",
+				"url": "https://microblog.lllist.eu/2023/03/17/listening-to-prologue.html"
+			},
+			{
+				"id": "http://lllist.micro.blog/2023/03/17/the-portable-war.html",
+				
+				"content_html": "<p>The Portable War Memorial</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The Portable War Memorial\n\n<img src=\"https://cdn.uploads.micro.blog/103215/2023/dc1f598d88.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-03-17T00:02:27+01:00",
+				"url": "https://microblog.lllist.eu/2023/03/17/the-portable-war.html"
+			},
+			{
+				"id": "http://lllist.micro.blog/2023/03/16/235228.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/103215/2023/946776761c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-03-16T23:52:28+01:00",
+				"url": "https://microblog.lllist.eu/2023/03/16/235228.html"
+			},
+			{
+				"id": "http://lllist.micro.blog/2023/03/16/235024.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/103215/2023/1a3a8ddf59.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-03-16T23:50:24+01:00",
+				"url": "https://microblog.lllist.eu/2023/03/16/235024.html"
+			},
+			{
+				"id": "http://lllist.micro.blog/2023/03/16/happy-birthday-my.html",
+				
+				"content_html": "<p>Happy birthday, my love.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Happy birthday, my love.\n\n<img src=\"https://cdn.uploads.micro.blog/103215/2023/d0f78d18bb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-16T06:55:00+01:00",
+				"url": "https://microblog.lllist.eu/2023/03/16/happy-birthday-my.html"
+			},
+			{
+				"id": "http://lllist.micro.blog/2023/03/15/143955.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://lllist.micro.blog/uploads/2023/f7d427d098.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-03-15T14:39:55+01:00",
+				"url": "https://microblog.lllist.eu/2023/03/15/143955.html"
+			},
+			{
+				"id": "http://lllist.micro.blog/2023/03/15/fresh-from-the.html",
+				
+				"content_html": "<p>Fresh from the laser cutter, the first six 90x30 modules for flexy cube (left-to-right: Raspberry Pi camera module, Tinkerforge segment display, motion detector, sound pressure level, rotary encoder, RGB LED button).</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Fresh from the laser cutter, the first six 90x30 modules for flexy cube (left-to-right: Raspberry Pi camera module, Tinkerforge segment display, motion detector, sound pressure level, rotary encoder, RGB LED button).\n\n<img src=\"uploads/2023/9094141118.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-03-15T11:12:52+01:00",
+				"url": "https://microblog.lllist.eu/2023/03/15/fresh-from-the.html",
+				"tags": ["flexy cube"]
+			},
+			{
+				"id": "http://lllist.micro.blog/2023/03/14/currently-reading-breaking.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781788162999\">Breaking Bread with the Dead</a> by Alan Jacobs</p>\n",
+				"content_text": "Currently reading: [Breaking Bread with the Dead](https://micro.blog/books/9781788162999) by Alan Jacobs\n",
+				"date_published": "2023-03-14T22:25:54+01:00",
+				"url": "https://microblog.lllist.eu/2023/03/14/currently-reading-breaking.html"
+			}
+	]
+}
