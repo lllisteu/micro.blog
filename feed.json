@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://lllist.micro.blog/2023/04/12/102203.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2023/9e7af45a84.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-12T10:22:03+02:00",
+				"url": "https://microblog.lllist.eu/2023/04/12/102203.html"
+			},
+			{
+				"id": "http://lllist.micro.blog/2023/04/01/listening-to-seu.html",
+				
+				"content_html": "<p>Listening to „Seu Jose” (from Tremendo Balanço) by Celso Murilo e seu conjunto, on CD</p>\n",
+				"content_text": "Listening to „Seu Jose” (from Tremendo Balanço) by Celso Murilo e seu conjunto, on CD\n",
+				"date_published": "2023-04-01T16:17:04+02:00",
+				"url": "https://microblog.lllist.eu/2023/04/01/listening-to-seu.html"
+			},
+			{
+				"id": "http://lllist.micro.blog/2023/03/31/listening-to-waiting.html",
+				
+				"content_html": "<p>Listening to „Waiting” (from At Lincoln Cathedral) by Roger Eno, on Concertzender / De Gehoorde Stilte</p>\n",
+				"content_text": "Listening to „Waiting” (from At Lincoln Cathedral) by Roger Eno, on Concertzender / De Gehoorde Stilte\n",
+				"date_published": "2023-03-31T15:35:26+02:00",
+				"url": "https://microblog.lllist.eu/2023/03/31/listening-to-waiting.html"
+			},
+			{
+				"id": "http://lllist.micro.blog/2023/03/29/currently-reading-index.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780241374238\">Index, a History of The</a> by Dennis Duncan</p>\n",
+				"content_text": "Currently reading: [Index, a History of The](https://micro.blog/books/9780241374238) by Dennis Duncan\n",
+				"date_published": "2023-03-29T22:09:15+02:00",
+				"url": "https://microblog.lllist.eu/2023/03/29/currently-reading-index.html"
+			},
+			{
 				"id": "http://lllist.micro.blog/2023/03/29/finished-reading-breaking.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781788162999\">Breaking Bread with the Dead</a> by Alan Jacobs</p>\n",
@@ -18,7 +50,7 @@
 				"id": "http://lllist.micro.blog/2023/03/24/ventilated-top-panel.html",
 				
 				"content_html": "<p>Ventilated top panel for flexy cube. All cube panels are 10x10cm, with a 1mm corner radius, and four 3mm holes centred 5mm from the edges. Can be combined with Totem boards and Makerbeam.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ventilated top panel for flexy cube. All cube panels are 10x10cm, with a 1mm corner radius, and four 3mm holes centred 5mm from the edges. Can be combined with Totem boards and Makerbeam.\n\n<img src=\"uploads/2023/2f7ccb6e3c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Ventilated top panel for flexy cube. All cube panels are 10x10cm, with a 1mm corner radius, and four 3mm holes centred 5mm from the edges. Can be combined with Totem boards and Makerbeam.\n\n<img src=\"https://cdn.uploads.micro.blog/103215/2023/2f7ccb6e3c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-24T15:27:19+02:00",
 				"url": "https://microblog.lllist.eu/2023/03/24/ventilated-top-panel.html",
 				"tags": ["flexy cube"]
