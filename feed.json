@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://lllist.micro.blog/2023/04/12/finished-reading-index.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780241374238\">Index, a History of The</a> by Dennis Duncan</p>\n",
+				"content_text": "Finished reading: [Index, a History of The](https://micro.blog/books/9780241374238) by Dennis Duncan\n",
+				"date_published": "2023-04-12T10:49:54+02:00",
+				"url": "https://microblog.lllist.eu/2023/04/12/finished-reading-index.html"
+			},
+			{
 				"id": "http://lllist.micro.blog/2023/04/12/102203.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
