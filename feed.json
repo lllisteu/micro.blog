@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://lllist.micro.blog/2023/06/04/listening-to-violin.html",
+				
+				"content_html": "<p>Listening to Violin Concerto No. 1</p>\n",
+				"content_text": "Listening to Violin Concerto No. 1\n",
+				"date_published": "2023-06-04T11:51:03+02:00",
+				"url": "https://microblog.lllist.eu/2023/06/04/listening-to-violin.html"
+			},
+			{
 				"id": "http://lllist.micro.blog/2023/04/12/finished-reading-index.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780241374238\">Index, a History of The</a> by Dennis Duncan</p>\n",
@@ -58,7 +66,7 @@
 				"id": "http://lllist.micro.blog/2023/03/24/ventilated-top-panel.html",
 				
 				"content_html": "<p>Ventilated top panel for flexy cube. All cube panels are 10x10cm, with a 1mm corner radius, and four 3mm holes centred 5mm from the edges. Can be combined with Totem boards and Makerbeam.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ventilated top panel for flexy cube. All cube panels are 10x10cm, with a 1mm corner radius, and four 3mm holes centred 5mm from the edges. Can be combined with Totem boards and Makerbeam.\n\n<img src=\"https://cdn.uploads.micro.blog/103215/2023/2f7ccb6e3c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Ventilated top panel for flexy cube. All cube panels are 10x10cm, with a 1mm corner radius, and four 3mm holes centred 5mm from the edges. Can be combined with Totem boards and Makerbeam.\n\n<img src=\"uploads/2023/2f7ccb6e3c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-24T15:27:19+02:00",
 				"url": "https://microblog.lllist.eu/2023/03/24/ventilated-top-panel.html",
 				"tags": ["flexy cube"]
@@ -99,7 +107,7 @@
 				"id": "http://lllist.micro.blog/2023/03/17/cube-panel-for.html",
 				
 				"content_html": "<p>Flexy cube panel for two 90x30 modules</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Flexy cube panel for two 90x30 modules\n\n<img src=\"https://cdn.uploads.micro.blog/103215/2023/435f0970ef.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Flexy cube panel for two 90x30 modules\n\n<img src=\"uploads/2023/435f0970ef.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-17T16:36:41+02:00",
 				"url": "https://microblog.lllist.eu/2023/03/17/cube-panel-for.html",
 				"tags": ["flexy cube"]
@@ -124,7 +132,7 @@
 				"id": "http://lllist.micro.blog/2023/03/16/235228.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/103215/2023/946776761c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"uploads/2023/946776761c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-17T00:52:28+02:00",
 				"url": "https://microblog.lllist.eu/2023/03/16/235228.html"
 			},
@@ -132,7 +140,7 @@
 				"id": "http://lllist.micro.blog/2023/03/16/235024.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/103215/2023/1a3a8ddf59.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"uploads/2023/1a3a8ddf59.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-17T00:50:24+02:00",
 				"url": "https://microblog.lllist.eu/2023/03/16/235024.html"
 			},
@@ -140,7 +148,7 @@
 				"id": "http://lllist.micro.blog/2023/03/16/happy-birthday-my.html",
 				
 				"content_html": "<p>Happy birthday, my love.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy birthday, my love.\n\n<img src=\"https://cdn.uploads.micro.blog/103215/2023/d0f78d18bb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Happy birthday, my love.\n\n<img src=\"uploads/2023/d0f78d18bb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-16T07:55:00+02:00",
 				"url": "https://microblog.lllist.eu/2023/03/16/happy-birthday-my.html"
 			},
@@ -148,7 +156,7 @@
 				"id": "http://lllist.micro.blog/2023/03/15/143955.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://lllist.micro.blog/uploads/2023/f7d427d098.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"uploads/2023/f7d427d098.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-15T15:39:55+02:00",
 				"url": "https://microblog.lllist.eu/2023/03/15/143955.html"
 			},
@@ -156,7 +164,7 @@
 				"id": "http://lllist.micro.blog/2023/03/15/fresh-from-the.html",
 				
 				"content_html": "<p>Fresh from the laser cutter, the first six 90x30 modules for flexy cube (left-to-right: Raspberry Pi camera module, Tinkerforge segment display, motion detector, sound pressure level, rotary encoder, RGB LED button).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Fresh from the laser cutter, the first six 90x30 modules for flexy cube (left-to-right: Raspberry Pi camera module, Tinkerforge segment display, motion detector, sound pressure level, rotary encoder, RGB LED button).\n\n<img src=\"https://lllist.micro.blog/uploads/2023/9094141118.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Fresh from the laser cutter, the first six 90x30 modules for flexy cube (left-to-right: Raspberry Pi camera module, Tinkerforge segment display, motion detector, sound pressure level, rotary encoder, RGB LED button).\n\n<img src=\"uploads/2023/9094141118.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-15T12:12:52+02:00",
 				"url": "https://microblog.lllist.eu/2023/03/15/fresh-from-the.html",
 				"tags": ["flexy cube"]
